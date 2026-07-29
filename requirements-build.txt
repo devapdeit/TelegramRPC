@@ -1,0 +1,7 @@
+customtkinter>=5.2.2,<6
+pypresence>=4.6.2,<5
+winrt-Windows.Media.Control[all]>=3.2.1,<4
+psutil>=5.9,<8
+pystray>=0.19,<1
+Pillow>=10,<13
+pyinstaller>=6.21,<7
